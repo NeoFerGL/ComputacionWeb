@@ -75,27 +75,28 @@ El sistema permite realizar operaciones CRUD sobre cada entidad mediante una API
 ### 1. Inicio de sesión  
 Pantalla principal para ingresar al sistema.
 
-<img src="https://github.com/user-attachments/assets/fe3251f5-031c-430f-957c-131f37f47a4d" width="200">
+<img src="https://github.com/user-attachments/assets/fe3251f5-031c-430f-957c-131f37f47a4d" width="400">
+
 ---
 
 ### 2. Panel de control Admin
 Vista para administradores
 
-<img src="https://github.com/user-attachments/assets/f60d9c1b-8adc-401b-85e5-123a282b8734" width="200">
+<img src="https://github.com/user-attachments/assets/f60d9c1b-8adc-401b-85e5-123a282b8734" width="400">
 
 ---
 
 ### 3. Panel de control Maestros
 Vista para maestros
 
-<img src="https://github.com/user-attachments/assets/260ec98a-5e9f-49d6-8288-6246e1bb5887" width="200">
+<img src="https://github.com/user-attachments/assets/260ec98a-5e9f-49d6-8288-6246e1bb5887" width="400">
 
 ---
 
 ### 4. Panel de control Alumnos
 Vista para alumnos
 
-<img src="https://github.com/user-attachments/assets/f456e2b4-3ff2-4303-9f70-3bb11a5661fc" width="200">
+<img src="https://github.com/user-attachments/assets/f456e2b4-3ff2-4303-9f70-3bb11a5661fc" width="400">
 
 ---
 
